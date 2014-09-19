@@ -2,4 +2,4 @@ contohsisfo
 ===========
 ini hanya sekedar contoh
 
-ini contoh 3
+ini dari contoh 1ini contoh 3
